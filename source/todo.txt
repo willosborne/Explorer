@@ -1,0 +1,15 @@
+13 February
+[x] fix tile picker tool
+[x] get tileset and background import working
+[x] get the background switcher to actually do something
+[x] get the tileset switcher to actually switch the tileset! 
+[x] add support for a different tileset per layer
+[x] make sure clickable areas for labels don't overlap (for now)
+[x] work out why I can't edit the far right column of tiles! (single character fix!)
+end result: http://puu.sh/znaA4/f47dd6c646.png
+
+14 February 
+[ ] allow tile selected movement with WASD
+[ ] get file export working
+[ ] start on shell for game state
+[ ] player class 
